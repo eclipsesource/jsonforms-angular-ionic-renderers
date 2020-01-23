@@ -1,21 +1,21 @@
-# JSONForms - More Forms. Less Code
+# JSON Forms - More Forms. Less Code
+
 ### Complex Forms in the blink of an eye
 
-JSONForms eliminates the tedious task of writing fully-featured forms by hand by leveraging the capabilities of JSON, JSON Schema and Javascript.
+[JSON Forms](https://github.com/eclipsesource/jsonforms) eliminates the tedious task of writing fully-featured forms by hand by leveraging the capabilities of JSON, JSON Schema and Javascript.
 
-# Ionic Package
+## Ionic Package (Angular)
 
-This is the JSONForms Ionic package which provides the necessary bindings for Ionic 3. 
-It uses [JSONForms Core](https://www.npmjs.com/package/@jsonforms/core) and the [JSONForms Angular]((https://www.npmjs.com/package/@jsonforms/angular)) binding.
+This is the JSONForms Angular Ionic renderers package which provides the necessary bindings for Ionic 3.
 
+It uses [JSON Forms Core](https://www.npmjs.com/package/@jsonforms/core) and [JSON Forms Angular](https://www.npmjs.com/package/@jsonforms/angular) bindings.
 
-# License
-The JSONForms project is licensed under the MIT License. See the [LICENSE file](https://github.com/eclipsesource/jsonforms/blob/master/LICENSE) for more information.
+This package showcases the development of an angular-ionic-based renderer set for JSON Forms. It was actively maintained with JSON Forms up until [version `2.3.2`](https://github.com/eclipsesource/jsonforms/tree/0cf18d3df877c5240188b0ae4e0d18e3638fc026).
 
-# Roadmap
-Our current roadmap is available [here](https://github.com/eclipsesource/jsonforms/blob/master/ROADMAP.md).
+## Playground
 
-# Development
-JSONForms is developed by [EclipseSource](https://eclipsesource.com).
-We are always very happy to have contributions, whether for trivial cleanups or big new features.
-``
+Checkout the [interactive ionic playground](http://github.eclipsesource.com/jsonforms-ionic-playground/) and [repository](https://github.com/eclipsesource/jsonforms-ionic-playground).
+
+## Professional support
+
+[EclipseSource](https://eclipsesource.com/) also offers [professional support for JSON Forms](https://jsonforms.io/support).
