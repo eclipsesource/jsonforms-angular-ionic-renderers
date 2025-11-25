@@ -1,5 +1,10 @@
 # JSON Forms - More Forms. Less Code
 
+> [!CAUTION]
+> This repository serves as the public archive of the `@jsonforms/ionic-renderers`.<br/>
+> The last stable version is `2.3.2`<br/><br/>
+> See [jsonforms.io](https://jsonforms.io) for more information about JSON Forms.
+
 ### Complex Forms in the blink of an eye
 
 [JSON Forms](https://github.com/eclipsesource/jsonforms) eliminates the tedious task of writing fully-featured forms by hand by leveraging the capabilities of JSON, JSON Schema and Javascript.
